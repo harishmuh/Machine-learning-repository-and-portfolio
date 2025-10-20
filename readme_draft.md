@@ -1,18 +1,16 @@
-# 🧠 Machine Learning Repository
+# 🧠 Machine Learning Repository for Biomedical Applications and Healthcare Analytics
 
-A compilation of my machine learning and data science projects.  
-Each project focuses on different analytical or modeling objectives 
-
+A compilation of my machine learning and data science projects in Biomedical, healthcare, biochemistry, and biology
 
 ---
 
 ## 🚀 Complete Repositories
 
-| Project | Description | Tech Stack | Link |
+| Project | Description | Analytical Focus | Link |
 |----------|--------------|-------------|------|
-| **Customer Segmentation (RFM + KMeans)** | Segmented online retail customers using RFM analysis and KMeans clustering to support data-driven marketing strategy. | `Python`, `Pandas`, `Scikit-learn`, `Plotly` | [🔗 View Repo](https://github.com/harish-username/customer-segmentation-rfm-kmeans) |
-| **AML vs ALL Gene Expression Classification** | Built a machine learning classifier (based on *Golub et al., 1999*) to distinguish AML and ALL leukemia using microarray data. | `Python`, `NumPy`, `Pandas`, `Matplotlib`, `Scikit-learn` | [🔗 View Repo](https://github.com/harish-username/aml-all-classifier) |
-| **Predicting Credit Default Payments** | Developed a model pipeline combining categorical encoding, feature scaling, and ensemble methods to predict default risk. | `Python`, `Scikit-learn`, `Imbalanced-learn`, `Pandas` | [🔗 View Repo](#) |
+| **AML vs ALL Gene Expression Classification** | Built a machine learning classifier (based on *[Golub et.al](https://pubmed.ncbi.nlm.nih.gov/10521349/)*) to distinguish AML and ALL leukemia using microarray data. | `Dimensional reduction (PCA)`, `Imbalanced Data`, `ROC-AUC`, `Classification` | [🔗 View Repo]([https://github.com/harish-username/aml-all-classifier](https://github.com/harishmuh/Gene-Expression_Acute-Leukimia_MLClassification/tree/main)) |
+| **Diabetes early risk prediction** | Developed a model to predict prediabetes risks. | `recall`, `Classification`, `Apps development` | [🔗 View Repo](https://github.com/harishmuh/Early-Risk-Diabetes-predictor-Machine-Learning-and-app/tree/main) |
+| **Heart disease prediction** | Created a classifier to assess heart disease risks from patient data based on the [UCI dataset](https://archive.ics.uci.edu/dataset/45/heart+disease) | `ROC-AUC`, `Classification`, `Apps development`, `Streamlit`, `LIME` | [🔗 View Repo](https://github.com/harishmuh/Heart-diseases-prediction-Machine-Learning--App) |
 
 ---
 
