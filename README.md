@@ -4,14 +4,14 @@ A compilation of my machine learning and data science projects in Biomedical, he
 
 ---
 
-## 🚀 Complete Repositories
+## 🚀 Disease Prediction - Repositories
 
 | Project | Description | Analytical Focus | Link |
 |----------|--------------|-------------|------|
-| **AML vs ALL Gene Expression Classification** | Built a machine learning classifier (based on *[Golub et.al](https://pubmed.ncbi.nlm.nih.gov/10521349/)*) to distinguish AML and ALL leukemia using microarray data. | `Dimensional reduction (PCA)`, `Imbalanced Data`, `ROC-AUC`, `Accuracy`, `Classification` | [🔗 View Repo](https://github.com/harishmuh/Gene-Expression_Acute-Leukimia_MLClassification/tree/main) |
+| **AML vs ALL Gene Expression Classification** | Built a machine learning classifier (based on *[Golub et.al](https://pubmed.ncbi.nlm.nih.gov/10521349/)*) to distinguish AML and ALL leukemia using microarray data. | `Dimensional reduction (PCA)`, `Imbalanced Data`, `ROC-AUC`, `Accuracy`, `Classification`, `SHAP` | [🔗 View Repo](https://github.com/harishmuh/Gene-Expression_Acute-Leukimia_MLClassification/tree/main) |
 | **Diabetes early risk prediction** | Developed a model to predict prediabetes risks. | `recall`, `Classification`, `Apps development` | [🔗 View Repo](https://github.com/harishmuh/Early-Risk-Diabetes-predictor-Machine-Learning-and-app/tree/main) |
-| **Heart disease prediction** | Created a classifier to assess heart disease risks from patient data based on the [UCI dataset](https://archive.ics.uci.edu/dataset/45/heart+disease) | `ROC-AUC`, `Classification`, `Apps development`, `Streamlit`, `LIME` | [🔗 View Repo](https://github.com/harishmuh/Heart-diseases-prediction-Machine-Learning--App) |
-
+| **Heart disease prediction** | Created a classifier to assess heart disease risks from patient data based on the [UCI dataset](https://archive.ics.uci.edu/dataset/45/heart+disease) | `Recall`, `ROC-AUC`, `Classification`,  `Apps development`, `LIME` | [🔗 View Repo](https://github.com/harishmuh/Heart-diseases-prediction-Machine-Learning--App) |
+| **COVID-19 Positivity Prediction** | Modeled 280.000 patient test results (data from the ministry of health) to predict COVID-19 positivity | `Recall`, `PR-AUC`, `Classification`, `Permutation Importance`, `LIME` | [🔗 View Repo](https://github.com/harishmuh/COVID19_Prediction/tree/main)) |
 ---
 
 ## 📓 Notebook Projects
