@@ -4,7 +4,7 @@ A compilation of my machine learning and data science projects in Biomedical, he
 
 ---
 
-## 🚀 Disease Prediction - Repositories
+## 🩺 Disease Prediction - Repositories
 
 | Project | Description | Analytical Focus & Tool stack | Link |
 |----------|--------------|-------------|------|
