@@ -8,13 +8,14 @@ A compilation of my machine learning and data science projects in Biomedical, he
 
 | Project | Description | Analytical Focus & Tool stack | Link |
 |----------|--------------|-------------|------|
-| **AML vs ALL Gene Expression Classification** | Built a machine learning classifier (based on *[Golub et.al](https://pubmed.ncbi.nlm.nih.gov/10521349/)*) to distinguish two types of acute leukemia (AML and ALL) using gene expression (microarray data). Performed dimensional reduction of gen expression (from ~7000 features to 31 features). | `Dimensional reduction (PCA)`, `Imbalanced Data`, `ROC-AUC`, `Accuracy`, `Classification`, `SHAP` | [🔗 View Repo](https://github.com/harishmuh/Gene-Expression_Acute-Leukimia_MLClassification/tree/main) |
-| **Diabetes early risk prediction** | Developed a model to predict prediabetes risks. | `recall`, `Classification`, `Apps development`, `streamlit` | [🔗 View Repo](https://github.com/harishmuh/Early-Risk-Diabetes-predictor-Machine-Learning-and-app/tree/main) |
-| **Heart disease risk prediction** | Created a classifier to assess heart disease risks from patient data based on the [UCI dataset](https://archive.ics.uci.edu/dataset/45/heart+disease) | `Recall`, `ROC-AUC`, `Classification`,  `Apps development`, `streamlit`,  `LIME` | [🔗 View Repo](https://github.com/harishmuh/Heart-diseases-prediction-Machine-Learning--App) |
-| **COVID-19 Positivity Prediction** | Modeled 280.000 patient test results (data from the ministry of health) to predict COVID-19 positivity | `Recall`, `PR-AUC`, `Classification`, `Imbalanced Data`, `Permutation Importance`, `LIME` | [🔗 View Repo](https://github.com/harishmuh/COVID19_Prediction/tree/main)) |
+| **AML vs ALL Gene Expression Classification** | Built a machine learning classifier (based on *[Golub et.al](https://pubmed.ncbi.nlm.nih.gov/10521349/)*) to distinguish two types of acute leukemia (AML and ALL) using gene expression (microarray data). Performed dimensional reduction of gen expression (from ~7000 features to 31 features). | `Dimensional reduction (PCA)`, `Imbalanced Data`, `ROC-AUC`, `Accuracy`, `Random Forest Classifier`, `SHAP` | [🔗 View Repo](https://github.com/harishmuh/Gene-Expression_Acute-Leukimia_MLClassification/tree/main) |
+| **Diabetes early risk prediction** | Developed a model to predict prediabetes risks. | `recall`, `XGBoost Classifier`, `Apps development`, `streamlit` | [🔗 View Repo](https://github.com/harishmuh/Early-Risk-Diabetes-predictor-Machine-Learning-and-app/tree/main) |
+| **Heart disease risk prediction** | Created a classifier to assess heart disease risks from patient data based on the [UCI dataset](https://archive.ics.uci.edu/dataset/45/heart+disease) | `Recall`, `ROC-AUC`, `K-Nearest Neighbors Classifier`,  `Apps development`, `streamlit`,  `LIME` | [🔗 View Repo](https://github.com/harishmuh/Heart-diseases-prediction-Machine-Learning--App) |
+| **COVID-19 Positivity Prediction** | Modeled 280.000 patient test results (data from the ministry of health) to predict COVID-19 positivity | `Recall`, `PR-AUC`, `Random Forest Classifier`, `LGBM Classifier`, `Imbalanced Data`, `Permutation Importance`, `LIME` | [🔗 View Repo](https://github.com/harishmuh/COVID19_Prediction/tree/main)) |
+| **Human chronological age prediction** | Predicted human chronological age from DNA methylation biomarkers using Galaxy project | `Gradient Boosting`, `Linear Regression`, `RMSE`, `R2`, `Galaxy` | [🔗 View Repo](https://github.com/harishmuh/Regression_Machine-Learning-Galaxy) |
 ---
 
-## 📓 Notebook Projects
+## 📓 Other Disease Prediction Notebooks 
 
 These projects are presented as Jupyter notebooks with complete analysis and discussion.
 
